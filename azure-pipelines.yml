@@ -3,6 +3,7 @@ trigger:
 
 pool:
   vmImage: ubuntu-latest
+  name: Homelab
 
 steps:
 - script: echo Hello, world!
